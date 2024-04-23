@@ -3,9 +3,9 @@ A simple application made to display transparent and not GIFs on your desktop
 
 USAGE:
 
-1. Download zip
+1. Download 'window.zip'
 2. Unzip
-3. Go to dist/window/
+3. Go to window/
 4. Put your GIF in the 'MovingImages' folder
 5. Execute 'window'
 
