@@ -10,7 +10,7 @@ USAGE:
 5. Execute 'window'
 
 NOTE: Some window managers may or may not open the
-application in maximized mode, you'll hae to set it
+application in maximized mode, you'll have to set it
 to floating.
 
 TO VIEW CODE:
