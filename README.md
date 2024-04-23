@@ -1,5 +1,5 @@
 # DSKTPMvingImgs
-A simple application made to display transparent and not GIFs on your desktop
+A simple application made with pyqt to display transparent and not GIFs on your desktop
 
 USAGE:
 
