@@ -7,7 +7,8 @@ USAGE:
 2. Unzip
 3. Go to window/
 4. Put your GIF in the 'MovingImages' folder
-5. Execute 'window'
+5. Name your GIF "image.gif"
+6. Execute 'launch'(or run 'window' directly from terminal)
 
 NOTE: Some window managers may or may not open the
 application in maximized mode, you'll have to set it
